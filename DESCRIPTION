@@ -1,7 +1,7 @@
 Package: spillR
 Type: Package
 Title: Spillover Compensation in Mass Cytometry Data
-Version: 1.5.0
+Version: 1.6.0
 Authors@R: c(
     person("Marco", "Guazzini",
     email= "m.guazzini@student.maastrichtuniversity.nl", 
